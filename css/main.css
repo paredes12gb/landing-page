@@ -1,0 +1,25 @@
+.navegacion {
+    display: -webkit-box;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    justify-content: center;
+}
+
+.navegacion-link {
+    display: inline;
+    padding: 0.5rem 1rem;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    background-color: #0000;
+}
+
+.bg-navegacion {
+    width: 100vw;
+    background-color: #000;
+}
